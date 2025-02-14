@@ -1,4 +1,4 @@
-# Bezier curve (2022). University Computer Graphics Assignment.
+# Bezier curve in Computer Graphics.
 # Requires [Graphics](https://github.com/ahuynh359/Graphics)
 ## Supports: Win x86.
 
