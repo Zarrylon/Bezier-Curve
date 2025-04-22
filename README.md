@@ -5,8 +5,8 @@
 ## Implemented:
 * Calculation of Bezier curve of n-th order.
 * Printing it on screen using graphics.h.
-* Geometrical transofmations: rotation, scaling, translation, reflection.
-* Basic menu.
+* Geometrical transformations: rotation, scaling, translation, reflection.
+* Console menu.
 
 ## Output examples: 
 ### 3th degree curve: 
